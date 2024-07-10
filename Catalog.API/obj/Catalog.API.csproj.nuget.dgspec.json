@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API.csproj": {}
+    "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API.csproj": {
+    "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API.csproj",
+        "projectPath": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\Gui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\obj\\",
+        "outputPath": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

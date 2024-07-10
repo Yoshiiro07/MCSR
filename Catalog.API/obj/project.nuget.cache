@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wIIA46ymrTw=",
+  "dgSpecHash": "o2JRe2YPgl8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API.csproj",
+  "projectFilePath": "C:\\Users\\Gui\\Desktop\\Gui\\Projetos\\MCSR\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gui\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Gui\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
